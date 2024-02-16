@@ -1,0 +1,2 @@
+Id=1&Name=Миагадаскар&Duration=100&Price=10&Genre=roman&Discription=Туманность Андромеды&Start=2024-02-16 15:26:23
+Id=2&Name=Магадаскар&Duration=300&Price=30&Genre=comedy&Discription=Туманность Андромеды&Start=2024-02-16 15:27:25
